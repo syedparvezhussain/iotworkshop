@@ -29,12 +29,8 @@ const [arrayOfMessages, setArrayOfMessages]= useState([])
 
   return (
     <div>
-      {/* <h1>http://10.42.171.70:5001/exampleApi?data={data}</h1> */}
-      {arrayOfMessages.map((e)=>{return <div>
-       accident <li>{e.accident}</li>
-      rash driving <li> {e.rash}</li>
-     location <li>{e.location}</li>
-      </div>})}
+<div>Hi this is my first code</div>
+   
       
     </div>
  
